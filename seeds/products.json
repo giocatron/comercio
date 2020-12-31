@@ -70,6 +70,29 @@
   },
   {
     "product": {
+      "name": "Gelcito rojo",
+      "description": "Es todo muy lindo en serio",
+      "price": "23.00",
+      "category_id": "categories[2].id"
+    },
+    "variant": [
+      {
+        "name": "Size",
+        "options": [
+          {
+            "description": "145ml",
+            "price": "0.00"
+          },
+          {
+            "description": "530ml",
+            "price": "40.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
       "name": "Lip Fantastic",
       "description": "A limited-edition, nourishing lip gel to top off your look and feel fantastic.",
       "price": "24.00",
